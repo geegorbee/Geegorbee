@@ -9,7 +9,7 @@ Transitioning from 5+ years in federal IAM/compliance to hands-on security roles
 
 📂 **Portfolio:** [Cybersecurity-Portfolio](./Cybersecurity-Portfolio)  
 🐍 **TryHackMe:** [CybrSerp3nt](https://tryhackme.com/p/CybrSerp3nt)  
-💼 **LinkedIn:** [Your LinkedIn]  
+💼 **LinkedIn:** www.linkedin.com/in/gerald-brown-63168223a 
 📧 **Contact:** gerald.brown@alumni.utoronto.ca
 
 
