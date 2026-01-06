@@ -231,10 +231,10 @@ Dedicated repository featuring advanced Splunk use cases, custom queries, worksh
 
 ## Contact & Links
 
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **GitHub:** [Your GitHub Profile](#)
+- **LinkedIn:** www.linkedin.com/in/gerald-brown-63168223a
 - **Email:** gerald.brown@alumni.utoronto.ca
-- **Location:** Paradise, NL, Canada (open to remote work)
+- **Location:** Conception Bay South, NL, Canada (open to remote work)
+- **TryHackMe Profile:** https://tryhackme.com/p/CybrSerp3nt
 
 -----
 
