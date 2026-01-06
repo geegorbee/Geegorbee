@@ -25,9 +25,9 @@ and AI system development.
 
 ## 🔗 Links
 - 🐍 **TryHackMe:** [CybrSerp3nt](https://tryhackme.com/p/CybrSerp3nt)
-- 💼 **LinkedIn:** [Your LinkedIn]
+- 💼 **LinkedIn:** www.linkedin.com/in/gerald-brown-63168223a
 - 📧 **Email:** gerald.brown@alumni.utoronto.ca
-- 📍 **Location:** Paradise, NL, Canada (open to remote)
+- 📍 **Location:** Conception Bay South, NL, Canada (open to remote)
 
 ---
 
