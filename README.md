@@ -9,9 +9,9 @@ Transitioning from 5+ years in federal IAM/compliance to hands-on security roles
 - **AI Security** - Building and securing AI/ML systems
 
 ## 🎓 Certifications
-- ISC2 Certified in Cybersecurity (CC)
 - Google Cybersecurity Professional Certificate
 - IBM Generative AI for Cybersecurity Professionals
+- Security+ (In Progress)
 
 ## 📂 Portfolios
 
